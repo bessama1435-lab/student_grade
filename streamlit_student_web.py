@@ -9,7 +9,6 @@ Original file is located at
 
 import streamlit as st
 import numpy as np
-import sklearn
 
 # 1. إعداد عنوان الصفحة
 st.set_page_config(page_title="Educational Prediction Model", layout="wide")
